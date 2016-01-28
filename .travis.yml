@@ -14,8 +14,7 @@ rvm:
 
 gemfile:
   - Gemfile
-  - gemfiles/rails41.gemfile
-  - gemfiles/rails42.gemfile
+  - gemfiles/rails5master.gemfile
 
 env:
   global:
